@@ -1,5 +1,5 @@
 # Blueprint ML
-The following repository contains implementation of foundational machine learning papers.  
+The following repository contains implementation of foundational machine learning papers from scratch.   
 
 ### Self-Supervised Learning
 | Method/Family | Paper | 
