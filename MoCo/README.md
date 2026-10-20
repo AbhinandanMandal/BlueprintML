@@ -1,7 +1,7 @@
 # MoCo v1 from scratch (PyTorch, CIFAR-10, Colab-sized)
 
 Independent implementation of *Momentum Contrast for Unsupervised Visual Representation Learning* (He et al., CVPR 2020).
-No pretrained weights and no third-party MoCo code. See `SPEC.md` for the paper summary, equation map and fidelity table.
+No pretrained weights and no third-party MoCo code. See [SPEC.md(https://github.com/AbhinandanMandal/BlueprintML/blob/master/MoCo/SPEC.md) for the paper summary, equation map and fidelity table.
 <img width="950" height="501" alt="download" src="https://github.com/user-attachments/assets/596f7378-02c9-453f-a0aa-98a8d85762c9" />
 
 ## Layout
