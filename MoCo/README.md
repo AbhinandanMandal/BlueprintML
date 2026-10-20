@@ -2,6 +2,7 @@
 
 Independent implementation of *Momentum Contrast for Unsupervised Visual Representation Learning* (He et al., CVPR 2020).
 No pretrained weights and no third-party MoCo code. See `SPEC.md` for the paper summary, equation map and fidelity table.
+<img width="950" height="501" alt="download" src="https://github.com/user-attachments/assets/596f7378-02c9-453f-a0aa-98a8d85762c9" />
 
 ## Layout
 `config.py` single validated config · `datasets.py` two-view CIFAR-10 + fixed subsets · `models/encoder.py` ResNet + fc→128 + L2 norm ·
