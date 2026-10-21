@@ -2,7 +2,7 @@
 The following repository contains implementation of foundational machine learning papers from scratch.   
 
 ### Self-Supervised Learning
-| Method/Family | Paper | Report |
+| Method | Paper | Report |
 |---------------|-------|------------------|
 | Autoencoders  | [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) | |
 | Sparse Autoencoder | [CS294A Sparse Autoencoder Notes by Andrew Ng](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf) | |
