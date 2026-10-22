@@ -270,5 +270,4 @@ clear title and enough context for others to help.
 Thank you for helping make machine learning research more
 understandable, reproducible, and collaborative.
 
-## Maintained by
-[![Maintained by Abhinandan Mandal](https://img.shields.io/badge/GitHub-Abhinandan%20Mandal-181717?logo=github)](https://github.com/AbhinandanMandal)
+
