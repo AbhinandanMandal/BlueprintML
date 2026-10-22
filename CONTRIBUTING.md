@@ -167,6 +167,9 @@ The method-level `README.md` should ideally include:
 -   Results, evaluation protocol, and known limitations.
 -   References and acknowledgements.
 
+## Tracks
+Please make sure to update [PAPERS.md](https://github.com/AbhinandanMandal/BlueprintML/blob/master/PAPERS.md) upon each new implementation according to each domain and field.
+
 ## Testing checklist
 
 Before submitting, check the items relevant to your contribution:
