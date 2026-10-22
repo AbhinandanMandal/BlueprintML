@@ -1,9 +1,9 @@
 # Contributing to BlueprintML
 
-Thank you for your interest in contributing to **BlueprintML by Advanced
-Vision Labs (AVL)**!
+Thank you for your interest in contributing to **[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) by [Advanced
+Vision Labs](https://detail-primer-91884953.figma.site/)**!
 
-BlueprintML is an open-source effort to implement foundational and
+[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) is an open-source effort to implement foundational and
 state-of-the-art machine learning papers from scratch, with an emphasis
 on understanding, clear engineering, reproducibility, and collaborative
 learning. Contributions from students, researchers, engineers, and
@@ -267,5 +267,5 @@ clear title and enough context for others to help.
 Thank you for helping make machine learning research more
 understandable, reproducible, and collaborative.
 
-**BlueprintML by Advanced Vision Labs**\
-*Understand. Implement. Experiment. Collaborate.*
+## Maintained by
+[![Maintained by Abhinandan Mandal](https://img.shields.io/badge/GitHub-Abhinandan%20Mandal-181717?logo=github)](https://github.com/AbhinandanMandal)
