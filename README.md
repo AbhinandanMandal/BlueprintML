@@ -30,7 +30,7 @@ students and researchers can explore them without needing to configure a
 large local environment.
 
 ## Implementations
-Please visit [PAPERS.md]() for implemented papers list.
+Please visit [PAPERS.md](https://github.com/AbhinandanMandal/BlueprintML/blob/master/PAPERS.md) for implemented papers list. Also **please make sure to update [PAPERS.md](https://github.com/AbhinandanMandal/BlueprintML/blob/master/PAPERS.md) upon each new implementation according to each domain and field**.
 
 ## Project principles
 
@@ -47,7 +47,7 @@ Please visit [PAPERS.md]() for implemented papers list.
 
 ## Who is this for?
 
-BlueprintML is for students learning deep learning, researchers studying
+[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) is for students learning deep learning, researchers studying
 or reproducing papers, engineers who want to understand methods under
 the hood, and anyone interested in open-source AI research.
 
@@ -104,7 +104,7 @@ notebook is fine when it improves accessibility.
 
 ## Community and collaboration
 
-BlueprintML is intended to be more than a collection of notebooks: it is
+[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) is intended to be more than a collection of notebooks: it is
 a place to learn through implementation, exchange ideas, and build
 research skills together. Contributors are encouraged to ask questions,
 explain trade-offs, share reproducibility notes, and help others get
@@ -116,21 +116,14 @@ on scope and avoids duplicated effort.
 
 ## Acknowledgements
 
-BlueprintML builds on the work of researchers who publish papers, code,
+[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) builds on the work of researchers who publish papers, code,
 datasets, and educational resources. Please cite original papers
 appropriately and respect the licences and usage terms of any
 third-party code or data used in an implementation.
 
 ## Maintained by
+[![Maintained by Abhinandan Mandal](https://img.shields.io/badge/GitHub-Abhinandan%20Mandal-181717?logo=github)](https://github.com/AbhinandanMandal)
 
-**Advanced Vision Labs (AVL)** --- an independent collaborative research
-initiative focused on fundamental and advanced research in Computer
-Vision, Embodied AI, and Intelligent Perception Systems.
-
-**Repository:** [BlueprintML on
-GitHub](https://github.com/AbhinandanMandal/BlueprintML)
-
-*Collaborate. Research. Innovate.*
 
 
 
