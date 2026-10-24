@@ -1,0 +1,13 @@
+## Author and Contribution
+
+**Author:** Himanshu Singh
+
+**Contribution:** Decoder-Only Transformer Architecture from Scratch
+
+This implementation is contributed by Himanshu Singh to [BlueprintML](https://github.com/AbhinandanMandal/BlueprintML). The contribution includes the implementation and adaptation of a GPT-style decoder-only Transformer in PyTorch, covering causal multi-head self-attention, positional embeddings, decoder blocks, next-token language modeling, training, and autoregressive text generation.
+
+The implementation is based on my existing Transformer work and is being adapted to meet BlueprintML's contribution requirements, with a focus on modularity, reproducibility, testing, and documentation.
+
+## License
+
+This contribution is intended for inclusion in BlueprintML. Licensing and redistribution are subject to the repository's existing license and contribution policies. Please refer to the root `LICENSE` file for the applicable terms.
