@@ -14,7 +14,7 @@ experiments, and shared learning.
 [![Contributions
 welcome](https://img.shields.io/badge/contributions-welcome-2ea44f.svg)](CONTRIBUTING.md)
 [![Discord](https://img.shields.io/badge/Discord-Advanced%20Vision%20Labs-5865F2?logo=discord&logoColor=white)](https://discord.gg/45aMaqVDk)
-[![Maintainer](https://img.shields.io/badge/GitHub-Maintainer-181717?logo=github)](https://github.com/AbhinandanMandal)
+[![GitHub Stars](https://img.shields.io/github/stars/AbhinandanMandal/BlueprintML?style=social)](https://github.com/AbhinandanMandal/BlueprintML/stargazers)
 
 ## About the project
 
