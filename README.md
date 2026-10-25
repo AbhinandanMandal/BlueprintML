@@ -1,6 +1,6 @@
 # BlueprintML
 
-**From research papers to reproducible implementations.**
+<img width="866" height="288" alt="Glowing_BLUEPRINTML_Logo-removebg-preview" src="https://github.com/user-attachments/assets/3b8db0bf-bc7b-44d3-831b-9d29cdeb17d5" />
 
 [BlueprintML](https://github.com/AbhinandanMandal/BlueprintML) is an open-source project by **[Advanced Vision Labs](https://detail-primer-91884953.figma.site/)**
 dedicated to implementing foundational and state-of-the-art machine
