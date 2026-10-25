@@ -150,8 +150,8 @@ addition, this layout is a useful starting point:
 ``` text
 MethodName/
 ├── README.md
-├── notebook.ipynb
-├── src/                   # Optional reusable modules
+├── notebook.ipynb         # Optional
+├── src/                   
 ├── configs/               # Optional experiment settings
 ├── reports/               # Optional results and analysis
 └── requirements.txt       # If method-specific dependencies are needed
