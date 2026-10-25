@@ -39,6 +39,7 @@ src/context_encoders/
     utils.py                  seeding, device, checkpoint save/load
 scripts/train.py, scripts/infer.py
 tests/                        model, masking, loss, CPU smoke test, notebook-equivalence test
+tests/results                 trained model outputs
 ```
 
 ## Setup
