@@ -92,8 +92,8 @@ When practical, include:
 ``` text
 MethodName/
 ├── README.md              # Paper summary, setup, usage, and results
-├── notebook.ipynb         # Google Colab-ready implementation
-├── src/                   # Reusable implementation modules (optional)
+├── notebook.ipynb         # Google Colab-ready implementation (optional)
+├── src/                   # Reusable implementation modules 
 ├── configs/               # Experiment configurations (optional)
 ├── reports/               # Results, plots, and analysis (optional)
 └── requirements.txt       # Method-specific dependencies (if needed)
