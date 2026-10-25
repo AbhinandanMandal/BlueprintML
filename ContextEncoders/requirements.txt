@@ -1,0 +1,9 @@
+# Libraries actually imported by the notebook / refactored code.
+# The notebook does not record package versions, so none are pinned.
+torch
+torchvision
+numpy
+Pillow
+matplotlib
+# tests only
+pytest
