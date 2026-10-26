@@ -1,0 +1,17 @@
+# Configuration B: small research experiment (10k images). Tune epochs/batch size to your GPU.
+dataset: cifar10
+data_dir: ./data
+output_dir: ./outputs/research_run
+train_subset_size: 10000    # set 0 for all 50,000 training images
+eval_subset_size: 0         # kNN monitor on the full test split
+epochs: 30
+batch_size: 128
+encoder: resnet18
+projection_dim: 128
+temperature: 0.5
+optimizer: sgd
+warmup_epochs: 2
+amp: true
+seed: 42
+save_every: 5
+eval_every: 5

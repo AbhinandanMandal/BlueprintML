@@ -1,0 +1,24 @@
+# Default = Configuration A (smoke test). CLI flags override any value here.
+dataset: cifar10
+data_dir: ./data
+output_dir: ./outputs/smoke_test
+train_subset_size: 2000
+eval_subset_size: 1000      # kNN monitor subset of the official test split
+epochs: 3
+batch_size: 64
+encoder: resnet18
+cifar_stem: true
+projection_hidden_dim: 2048
+projection_dim: 128
+projection_bn: true
+temperature: 0.5
+optimizer: sgd              # 'lars' is the paper's optimizer (use with large batches)
+momentum: 0.9
+warmup_epochs: 1
+amp: true
+color_strength: 0.5
+blur: false
+seed: 42
+save_every: 1
+eval_every: 1
+num_workers: 2
