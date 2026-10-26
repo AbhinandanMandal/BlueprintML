@@ -13,6 +13,7 @@ Contributors are requested to make table for each domain with **method/family**,
 | Denoising Autoencoder | [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Denoising%20Autoencoder) | |
 | Context Encoder | [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ContextEncoders) | |
 | MoCo | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/MoCo) | [report](https://github.com/AbhinandanMandal/ML-Whitepapers) |
+| SimCLR | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/SimCLR) | |
 
 ### Natural Language Processing
 
