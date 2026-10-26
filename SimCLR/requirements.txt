@@ -1,0 +1,8 @@
+# Colab ships compatible torch/torchvision; pip will not reinstall them if these are satisfied.
+torch>=2.3
+torchvision>=0.18
+numpy>=1.24
+pyyaml>=6.0
+pillow>=9.0
+matplotlib>=3.7
+pytest>=7.4
