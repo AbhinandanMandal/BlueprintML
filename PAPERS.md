@@ -20,3 +20,9 @@ Contributors are requested to make table for each domain with **method/family**,
 | Method/Family | Paper | Code | Report |
 |---------------|-------|------|--------|
 | Decoder-Only Transformer | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [code](./DecoderOnlyTransformer) |
+
+### Explainers and Visualizations
+
+| Method/Family | Paper | Code | Report |
+|---------------|-------|------|--------|
+| Self-Attention (Manim animation) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [code](./AttentionExplained) | [storyboard](./AttentionExplained/STORYBOARD.md) |
