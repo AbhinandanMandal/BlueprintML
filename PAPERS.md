@@ -8,12 +8,12 @@ Contributors are requested to make table for each domain with **method/family**,
 ### Self-Supervised Learning
 | Method/Family | Paper | Code | Report |
 |---------------|-------|------|--------|
-| Autoencoders  | [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Autoencoder) | |
-| Sparse Autoencoder | [CS294A Sparse Autoencoder Notes by Andrew Ng](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Sparse%20Autoencoder) | |
-| Denoising Autoencoder | [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Denoising%20Autoencoder) | |
-| Context Encoder | [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ContextEncoders) | |
+| Autoencoders  | [Autoencoders: Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Autoencoder) | Coming Soon ⏳ |
+| Sparse Autoencoder | [CS294A Sparse Autoencoder Notes by Andrew Ng](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Sparse%20Autoencoder) | Coming Soon ⏳ |
+| Denoising Autoencoder | [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/Denoising%20Autoencoder) | Coming Soon ⏳ |
+| Context Encoder | [Context Encoders: Feature Learning by Inpainting](https://arxiv.org/pdf/1604.07379) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ContextEncoders) | Coming Soon ⏳ |
 | MoCo | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/MoCo) | [report](https://github.com/AbhinandanMandal/ML-Whitepapers) |
-| SimCLR | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/SimCLR) | |
+| SimCLR | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/SimCLR) | Coming Soon ⏳ |
 
 ### Natural Language Processing
 
@@ -31,4 +31,4 @@ Contributors are requested to make table for each domain with **method/family**,
 ### Transformer Architecture
 | Method/Family | Paper | Code | Report |
 |---------------|-------|------|--------|
-|Vision Transformers | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ViT) | `In Progress` | 
+|Vision Transformers | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ViT) | Coming Soon ⏳ | 
