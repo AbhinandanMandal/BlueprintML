@@ -26,3 +26,8 @@ Contributors are requested to make table for each domain with **method/family**,
 | Method/Family | Paper | Code | Report |
 |---------------|-------|------|--------|
 | Self-Attention (Manim animation) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [code](./AttentionExplained) | [storyboard](./AttentionExplained/STORYBOARD.md) |
+
+### Transformer Architecture
+| Method/Family | Paper | Code | Report |
+|---------------|-------|------|--------|
+|Vision Transformers | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/ViT) | `In Progress` | 
