@@ -26,6 +26,7 @@ Contributors are requested to make table for each domain with **method/family**,
 | Method/Family | Paper | Code | Report |
 |---------------|-------|------|--------|
 | Self-Attention (Manim animation) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [code](./AttentionExplained) | [storyboard](./AttentionExplained/STORYBOARD.md) |
+| e-means | [e-means: outperforming k-means](https://arxiv.org/pdf/2611.09501v1#page=3.18) | [code](https://github.com/AbhinandanMandal/BlueprintML/tree/master/e_means) | Coming Soon ⏳|
 
 ### Transformer Architecture
 | Method/Family | Paper | Code | Report |
